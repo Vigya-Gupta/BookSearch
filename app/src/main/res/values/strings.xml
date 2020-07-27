@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BookSearch</string>
+    <string name="instruction">Enter Book Name :</string>
+    <string name="input_hint">Book Title ex: God is A Gamer</string>
+    <string name="button_text">Search</string>
+    <string name="author_label">Ravi Subramanian</string>
+</resources>
